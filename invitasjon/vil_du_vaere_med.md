@@ -32,9 +32,13 @@ Som et første trinn er tanken at innsatsen for de frivillige er på et overkomm
 
 Ta kontakt vi en av disse kanalene om du er interessert i å møtes en ettermiddag/kveld for å diskutere kodeklubb i Tananger.
 
-- Facebook
-- SMS
-- Twitter
+- [Facebook messenger](https://www.facebook.com/knuterikhollund)
+- [Telegram](https://telegram.org/)
+- [WhatsApp](https://www.whatsapp.com/)
+- [Twitter](https://twitter.com/knuthollund)
+- [Google+/Hangout](https://plus.google.com/+knuterikhollund)
+- e-post: knut [dot] erik [at] hollund [dot] org
+- evt. melding via [FB siden til kodeklubben.](https://www.facebook.com/kodeklubbentananger/)
 
 ## Om meg
 Startet med programvare utvikling i 1983, da 13 år gammel. Dette ble senere mitt yrke og har jobbet som programvareutvikler i flere år, de siste årene som leder for utviklere. Brenner bl.a. for fri/åpen kildekode og deling av kunnskap. 
