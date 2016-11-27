@@ -14,7 +14,7 @@ _LKK et løst organisert frivillig nettverk av av lokale grupper, privatpersoner
 LKK er et nettverk og en bevegelse, men samler og lager også mye materiell til undervisning.
 
 ## Kodeklubb
-En av aktivitetene i nettverket er å danne lokale kodeklubber for barn (8-14år - trenger ikke å begrense alder). 
+En av aktivitetene i nettverket er å danne lokale kodeklubber for barn. (8 - 14 år, som et eksempel. En trenger ikke å begrense alder.)
 
 _Kodeklubben er et fritidstilbud der barn og ungdommer leker og lærer med programmering. Ideen er enkel: Frivillige med IT-kunnskap lærer barn å programmere i eller etter skoletid._ [Kilde: Kodeklubben](http://kidsakoder.no/kodeklubben/)
 
@@ -23,27 +23,28 @@ Det eksisterer ferdige oppgavesett i flere programmeringsspråk som klubbene kan
 ##Tananger
 **Jeg ønsker å komme i kontakt med andre frivillige voksne**,  som kan bidra til å teste konseptet kodeklubb i Tananger.  Tanken er å lære underveis i flere iterasjoner _(inspect and adapt)_ og i første omgang teste konseptet for å erfare om det finnes et engasjement for å kunne jobbe videre med å utvikle en kodeklubb.
 
-Som en start er ideén enkel:
+Som en start, er ideén enkel:
 
 - Voksne frivillige bidragsytere samles en ettermiddag for å diskutere konseptet, samt organisere en  _Test Kveld_ 
 - Gjennomføre en "Test Kveld", hvor vi inviterer barn til å gjennomføre en eller to programmerings oppgaver. (Oppgavemateriell eksisterer).
 - Etter gjennomføringen, lære av _test kvelden_, hvor vi enten bestemmer oss for å utvikle konseptet (fortsette) eller konkludere med at aktiviten avsluttes.
 
-Som et første trinn er tanken at innsatsen for de frivillige er på et overkommelig nivå og at alle kan bidra med ett eller annet. Om du ikke kan programmere, så er det garantert andre oppgaver som en kan utrette.
+Som et første trinn er tanken at innsatsen for de frivillige er på et overkommelig nivå og at alle kan bidra, uavhengig av dine  teknologikunnskaper. Om du ikke kan programmere, så er det andre oppgaver som en kan utrette.
 
 ## Om meg
 Jeg startet med programvareutvikling i 1983/84, 13 år gammel. Dette ble senere mitt yrke og jeg har jobbet som programvareutvikler i flere år, de siste årene som leder for utviklere. Brenner bl.a. for fri/åpen kildekode og deling av kunnskap. 
 
 ## Ønsker du å være med?
-Hvis du er er interessert i å møtes en ettermiddag/kveld for å diskutere kodeklubb i Tananger, ta kontakt via en av disse kanalene:
+Hvis du er er interessert i å møtes en ettermiddag/kveld for å diskutere kodeklubb i Tananger, ta kontakt med meg via en av disse kanalene:
 
 - [Facebook messenger](https://www.facebook.com/knuterikhollund)
+- Melding til [FB siden til kodeklubben](https://www.facebook.com/kodeklubbentananger/)
 - [Telegram](https://telegram.org/)
 - [WhatsApp](https://www.whatsapp.com/)
 - [Twitter](https://twitter.com/knuthollund)
 - [Google+/Hangout](https://plus.google.com/+knuterikhollund)
 - e-post: knut [dot] erik [at] hollund [dot] org
-- evt. melding via [FB siden til kodeklubben.](https://www.facebook.com/kodeklubbentananger/)
+
 
 Mvh,
 Knut Erik Hollund
