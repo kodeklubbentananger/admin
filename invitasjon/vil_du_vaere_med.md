@@ -1,19 +1,17 @@
 # Kodeklubben Tananger
 
 ## Lær kidsa koding
-[Lær kidsa koding](http://kidsakoder.no) er en frivillig bevegelse i Norge og lignende bevegelser finnes flere steder i verden. Du kan lese om deres formål i [denne lenken](http://kidsakoder.no/om-lkk/).
+[Lær kidsa koding](http://kidsakoder.no)- (LKK) er en frivillig bevegelse i Norge og lignende bevegelser finnes flere steder i verden. Du kan lese om deres formål i [denne lenken](http://kidsakoder.no/om-lkk/).
 
 _LKK er et nettverk for alle i Norge som er opptatt av verdien av å lære barn IT, og LKK skal være en arena for samspill, engasjement og lokale muligheter._ 
 
-_LKK et løst organisert frivillig nettverk av av lokale grupper, privatpersoner, myndigheter, skoler og bedrifter som kan hjelpe hverandre på tvers av landet. LKK er summen av de aktivitetene som til en hver tid foregår rundt i landet._ 
-
-[Kilde : Om LKK](http://kidsakoder.no/om-lkk/)
+_LKK et løst organisert frivillig nettverk av av lokale grupper, privatpersoner, myndigheter, skoler og bedrifter som kan hjelpe hverandre på tvers av landet. LKK er summen av de aktivitetene som til en hver tid foregår rundt i landet._  - [Kilde : Om LKK](http://kidsakoder.no/om-lkk/)
 
 LKK er et nettverk og en bevegelse, men samler og lager også mye materiell til undervisning.
 
 
 ## Kodeklubb
-En av aktivitetene i nettverket er å danne lokale kodeklubber for barn. 
+En av aktivitetene i nettverket er å danne lokale kodeklubber for barn (8-14år - trenger ikke å begrense alder). 
 
 _Kodeklubben er et fritidstilbud der barn og ungdommer leker og lærer med programmering. Ideen er enkel: Frivillige med IT-kunnskap lærer barn å programmere i eller etter skoletid._ [Kilde: Kodeklubben](http://kidsakoder.no/kodeklubben/)
 
@@ -30,7 +28,8 @@ Som en start er ideén enkel:
 
 Som et første trinn er tanken at innsatsen for de frivillige er på et overkommelig nivå og at alle kan bidra med ett eller annet. Om du ikke kan programmere, så er det garantert andre oppgaver som en kan utrette.
 
-Ta kontakt vi en av disse kanalene om du er interessert i å møtes en ettermiddag/kveld for å diskutere kodeklubb i Tananger.
+## Ønsker du å være med?
+Hvis du er er interessert i å møtes en ettermiddag/kveld for å diskutere kodeklubb i Tananger, ta kontakt via en av disse kanalene:
 
 - [Facebook messenger](https://www.facebook.com/knuterikhollund)
 - [Telegram](https://telegram.org/)
@@ -50,5 +49,5 @@ Notstien 4 - Tananger
 ## Ressurser
 - [Facebook side for kodeklubben](https://www.facebook.com/kodeklubbentananger/) - Fint om du "liker" siden og informer dine venner om den.
 - [GitHub Organisasjon og reporsitories](https://github.com/kodeklubbentananger) - har du GitHub konto legger jeg deg gjerne til i organisasjonen og repo'ene. All informasjon er åpen.
-- [Åpent kladde dokument]() om ideén og praktikaliteter.
+- [Åpent kladde dokument](https://drive.google.com/open?id=1iRhnaHnMT9hlEKxw_NfGoQMKwhWmiSJgGPDnmWSubtI) om ideén og praktikaliteter.
 - [Lær Kidsa Koding](http://kidsakoder.no/) - bevegelse og nettverk
