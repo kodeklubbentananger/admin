@@ -52,9 +52,9 @@ Notstien 4 - Tananger
 ***
 
 ### Ressurser
-- [Facebook side for kodeklubben](https://www.facebook.com/kodeklubbentananger/) - Fint om du "liker" siden og informer dine venner om den.
-- [GitHub Organisasjon og reporsitories](https://github.com/kodeklubbentananger) - har du GitHub konto legger jeg deg gjerne til i organisasjonen og repo'ene. All informasjon er åpen.
 - [Åpent kladde dokument](https://drive.google.com/open?id=1iRhnaHnMT9hlEKxw_NfGoQMKwhWmiSJgGPDnmWSubtI) om ideén og praktikaliteter.
+- [Facebook side for kodeklubben](https://www.facebook.com/kodeklubbentananger/) - Fint om du "liker" siden og informer dine venner om den.
+- [GitHub konto til organisasjonen og kilder](https://github.com/kodeklubbentananger) - har du GitHub konto legger jeg deg gjerne til i organisasjonen og kildene (repositories). All informasjon er åpen.
 - [Lær Kidsa Koding](http://kidsakoder.no/) - bevegelse og nettverk
 
 ***
