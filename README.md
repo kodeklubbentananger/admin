@@ -1,2 +1,2 @@
-# admin
-Administrasjon og ymse ressurser
+# Kodeklubben Tananger
+- Diverse administrasjon og ressurser
