@@ -1,5 +1,5 @@
 # Kodeklubben Tananger
-<center>" _Vi må ikke la ideen om «digitale innfødte» hindre den digitale utdannelsen av barna. Selv om barn er eksperter på å konsumere trenger de hjelp til å lære hvordan de skal skape noe digitalt. Datamaskinen er et kreativt verktøy. Barn må lære seg å skape. Vi er nødt til å gi barna våre dette verktøyet for at de skal kunne leve det voksenlivet som vi ser komme. Hvis ikke ender vi opp som en nasjon av bestillere._ "</center> 
+<center>"_Vi må ikke la ideen om «digitale innfødte» hindre den digitale utdannelsen av barna. Selv om barn er eksperter på å konsumere trenger de hjelp til å lære hvordan de skal skape noe digitalt. Datamaskinen er et kreativt verktøy. Barn må lære seg å skape. Vi er nødt til å gi barna våre dette verktøyet for at de skal kunne leve det voksenlivet som vi ser komme. Hvis ikke ender vi opp som en nasjon av bestillere._"</center> 
 Sakset fra artikkelen - [10.000 timer med spill, chat, nettbrett og mobilbilder gjør dem til eksperter, men i hva?](http://www.dn.no/etterBors/2016/11/13/1757/Teknologi/10000-timer-med-spill-chat-nettbrett-og-mobilbilder-gjor-dem-til-eksperter-men-i-hva)
 
 ***
